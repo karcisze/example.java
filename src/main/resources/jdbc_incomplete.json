@@ -1,0 +1,4 @@
+{
+  "JDBC_DRIVER":"com.mysql.jdbc.Driver",
+  "JDBC_URL":"jdbc:mysql://localhost/test"
+}
